@@ -262,9 +262,6 @@ return {
           },
         },
 
-        -- Nix
-        nil_ls = {},
-
         -- Fish shell - no LSP available, will handle with linting/formatting
 
         lua_ls = {
